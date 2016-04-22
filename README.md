@@ -1,2 +1,5 @@
 # hello---tr7
-just some intialization to understand the principle of GitHub
+Hi there,
+
+Im TR7 from Ho Chi Minh city.
+Im so happy to be here to learn something new useful for my career
